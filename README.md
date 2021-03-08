@@ -1,5 +1,5 @@
-# article_13778_convert_optical_and_sar
-日本発の衛星データプラットフォーム Tellus のオウンドメディア「宙畑」の記事、https://sorabatake.jp/13778 で利用しているコードです。
+# article_15701_convert_optical_and_sar
+日本発の衛星データプラットフォーム Tellus のオウンドメディア「宙畑」の記事、https://sorabatake.jp/15701 で利用しているコードです。
 光学画像→SAR画像変換、及びSAR画像→光学画像変換をペア画像を必要としない教師なし学習で実現します
 
 なお、SARデータの取得にはTellusの開発環境を申し込む必要があります。
